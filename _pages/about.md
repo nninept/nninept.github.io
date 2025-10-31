@@ -6,7 +6,7 @@ subtitle: <b>Live up to your calling</b>
 
 profile:
   align: right
-  image: about_photo.jpg
+  image: about_photo.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Nope... I swear I love colorful, vivid clothes… </p>
